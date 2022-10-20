@@ -10,4 +10,10 @@
 
 h1 {
     text-align: center;
+    padding-top: 60px;
+}
+
+.pyrrha {
+    display: flex;
+    justify-content: center;
 }
